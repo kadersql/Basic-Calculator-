@@ -1,2 +1,2 @@
 # Basic-Calculator-
-Building a Basic Calculator structure with html and css. 
+Build a Basic Calculator structure with html and css. 
